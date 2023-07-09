@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-app_11_user_registration/static/css/main.7cda0caf.css",
+    "main.js": "/my-app_11_user_registration/static/js/main.2909fee8.js",
+    "index.html": "/my-app_11_user_registration/index.html",
+    "main.7cda0caf.css.map": "/my-app_11_user_registration/static/css/main.7cda0caf.css.map",
+    "main.2909fee8.js.map": "/my-app_11_user_registration/static/js/main.2909fee8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cda0caf.css",
+    "static/js/main.2909fee8.js"
+  ]
+}
