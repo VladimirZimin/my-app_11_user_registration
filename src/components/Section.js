@@ -1,7 +1,6 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const StyleSection = styled.section`
-  min-height: 200px;
   padding: 15px;
 `;
 
